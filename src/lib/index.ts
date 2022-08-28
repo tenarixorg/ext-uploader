@@ -71,7 +71,7 @@ export const packExtension = async (
           prefix: data.name,
           cwd: path_,
           gzip: true,
-          file: data.name + ".tgz",
+          file: fullPath,
         },
         files
       );
