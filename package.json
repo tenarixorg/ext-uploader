@@ -1,6 +1,6 @@
 {
   "name": "@tenarix/ext-uploader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tenarix extension uploader",
   "type": "module",
   "main": "dist/index.mjs",
